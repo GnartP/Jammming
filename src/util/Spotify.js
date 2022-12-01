@@ -1,5 +1,5 @@
 const clientId =process.env.REACT_APP_CLIENT_ID;
-const redirectUri = 'http://localHost:3000/';
+const redirectUri = 'http://spot_jam.surge.sh';
 let accessToken;
 
 const Spotify = {
